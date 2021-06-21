@@ -5,7 +5,7 @@
   "author": "Samrid Pandit <samrid.pandit@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "run": "snowpack dev"
+    "dev": "snowpack dev"
   },
   "dependencies": {
     "snowpack": "^3.5.9"
