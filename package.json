@@ -1,0 +1,13 @@
+{
+  "name": "karun-web",
+  "version": "1.0.0",
+  "description": "idk lol",
+  "author": "Samrid Pandit <samrid.pandit@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "run": "snowpack dev"
+  },
+  "dependencies": {
+    "snowpack": "^3.5.9"
+  }
+}
